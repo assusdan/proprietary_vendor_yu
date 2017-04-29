@@ -66,6 +66,12 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/yu/tomato/proprietary/lib/hw/sensors.goldfish.so:system/lib/hw/sensors.goldfish.so \
     vendor/yu/tomato/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
+    vendor/yu/tomato/proprietary/vendor/lib64/hw/power.msm8916.so:system/vendor/lib64/hw/power.msm8916.so \
+    vendor/yu/tomato/proprietary/vendor/lib/hw/power.msm8916.so:system/vendor/lib/hw/power.msm8916.so \
+    vendor/yu/tomato/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
+    vendor/yu/tomato/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
+    vendor/yu/tomato/proprietary/lib64/hw/power.default.so:system/lib64/hw/power.default.so \
+    vendor/yu/tomato/proprietary/lib64/hw/power.qcom.so:system/lib64/hw/power.qcom.so \
     vendor/yu/tomato/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
     vendor/yu/tomato/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/yu/tomato/proprietary/lib64/hw/audio.primary.default.so:system/lib64/hw/audio.primary.default.so \
