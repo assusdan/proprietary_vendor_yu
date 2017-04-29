@@ -208,6 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so:system/vendor/lib/libchromatix_ov5670_q5v41b_snapshot.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so:system/vendor/lib/libchromatix_ov5670_q5v41b_video_hd.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so:system/vendor/lib/libchromatix_ov5670_q5v41b_zsl.so \
+    vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_q5v41b_common.so:system/vendor/lib/libchromatix_ov5670_q5v41b_common.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_ramos_common.so:system/vendor/lib/libchromatix_ov5670_ramos_common.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_ramos_default_video.so:system/vendor/lib/libchromatix_ov5670_ramos_default_video.so \
     vendor/yu/tomato/proprietary/vendor/lib/libchromatix_ov5670_ramos_hfr_120fps.so:system/vendor/lib/libchromatix_ov5670_ramos_hfr_120fps.so \
